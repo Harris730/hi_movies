@@ -1,4 +1,4 @@
-# hi_movies
+# HI_movies
 
 A new Flutter project.
 
